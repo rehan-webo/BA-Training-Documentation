@@ -1,3 +1,6 @@
 Payment API
 Request
 Response
+
+Business Rule 1
+Busniess Rule 2
