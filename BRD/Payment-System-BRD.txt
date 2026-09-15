@@ -2,3 +2,7 @@
 2.Business requiremetns
 	BR-001
 	BR-002
+
+
+New Rule:
+Customers cannot request a refund amount
